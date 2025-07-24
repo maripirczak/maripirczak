@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div>
-  <p>My name is Mariane. I started my carrier in Technologie around 2018 and in 2020 I got my degree in Analysis and Systems Development. I worked and specialized in SEO for three years. After this period, I moved to Canada where I started to deepen my knowledge in front end development and most recently in quality assurance. The QA position was the area where I was able to bring together all my technical and analytical knowledge acquired over the last seven years. In this moment I’m currently looking to contribute to projects that combine web development, quality and performance.</p>
+  <p>My name is Mariane. I started my carrier in Technologie around 2018 and in 2020 I got my degree in Analysis and Systems Development. I worked and specialized in SEO for three years. After this period, I moved to Canada where I started to deepen my knowledge in front end development and most recently in quality assurance. The QA position was the area where I was able to bring together all my technical and analytical knowledge acquired over the last years. In this moment I’m currently looking to contribute to projects that combine web development, quality and performance.</p>
 </div>
 <br>
 <div style="display: inline_block">
